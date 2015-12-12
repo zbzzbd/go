@@ -4,6 +4,11 @@ import (
 	"fmt"
 )
 
+/***
+1。自定义类型： type color,实际上就是起了个别名
+2.reciver,作为指针传递首先传递小，且传递其对象本身，而不是值的拷贝
+3.
+**/
 const (
 	WHITE = iota
 	BLACK
