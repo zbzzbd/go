@@ -1,0 +1,62 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/go_dev/src/xh" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com" />
+      <root url="file://$USER_HOME$/go_dev/src/9fans.net" />
+      <root url="file://$USER_HOME$/go_dev/src/golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$USER_HOME$/go_dev/src/github.com/nsf/gocode/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/alecthomas/gometalinter/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/smartystreets/assertions/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/chinarun/utils/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/bitly/go-simplejson/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/beego/wetalk/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/lib/pq/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/rogpeppe/godef/go/printer/testdata" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/go-sql-driver/mysql/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/insionng/alipay-1/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/chanxuehong/util/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/howeyc/fsnotify/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/daltoniam/goguid/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/jtolds/gls/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/jstemmer/gotags/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/smartystreets/goconvey/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/9fans.net/go/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/manveru/faker/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/skip2/go-qrcode/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/kr/text/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/beego/bee/testdata" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/astaxie/bee/testdata" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/astaxie/bee/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/nsf/gocode/_gccgo" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/Unknwon/goconfig/testdata" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/Unknwon/goconfig/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/beego/compress/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/astaxie/beedb/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/nsf/gocode/_goremote" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/nsf/gocode/_testing" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/kr/pretty/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/dlintw/goconf/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/astaxie/beego/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/chanxuehong/wechat/json/testdata" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/rogpeppe/godef/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/chanxuehong/wechat/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/beego/social-auth/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/ascoders/alipay/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/xh/api-server/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/beego/bee/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/dgrijalva/jwt-go/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/astaxie/beego/utils/testdata" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/bradfitz/goimports/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/golang/lint/testdata" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/golang/lint/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/slene/blackfriday/.git" />
+      <root url="file://$USER_HOME$/go_dev/src/github.com/beego/i18n/.git" />
+    </excluded>
+  </library>
+</component>
